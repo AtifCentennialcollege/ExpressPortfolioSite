@@ -7,9 +7,14 @@
 <!-- Main Content -->
 <main Class="container">
   <div class="jumbotron">
-  <h1 class="display-4">Welcome to the <%= title %> page</h1>
-  
+  <h1 style="text-align:center" class="display-4"><%= title %></h1>
   </div>
+<% if (title == "Home") { %>
+  <%- include partials/home_content.ejs %>
+  <% } %>
+<% if (title == "About Me") { %>
+  <%- include partials/aboutMe_content.ejs %>
+  <% } %>
 </main>
   
 <%- include partials/bottom_nav.ejs %>
