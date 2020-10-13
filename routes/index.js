@@ -22,8 +22,8 @@ router.get('/services', function(req, res, next) {
   res.render('index', { title: 'Services',});
 });
 
-router.get('/contactUs', function(req, res, next) {
-  res.render('index', { title: 'Contact Us',});
+router.get('/contactMe', function(req, res, next) {
+  res.render('index', { title: 'Contact Me',});
 });
 
 
