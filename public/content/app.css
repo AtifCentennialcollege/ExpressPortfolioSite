@@ -29,6 +29,15 @@
 #wm {
     padding-bottom: 50px;
 }
+#hm1, #hm3 {
+    text-align: center;
+}
+
+#hm2 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
 
 hr.solid {
     border-top: 3px solid #bbb;
