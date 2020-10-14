@@ -27,12 +27,12 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AtifCentennialcollege/COMP229-f2020-w3.git"
+    "url": "git+https://github.com/AtifCentennialcollege/a1-expressportfoliosite.git"
   },
   "author": "Atif Thakor",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/AtifCentennialcollege/COMP229-f2020-w3/issues"
+    "url": "https://github.com/AtifCentennialcollege/a1-expressportfoliosite/issues"
   },
-  "homepage": "https://github.com/AtifCentennialcollege/COMP229-f2020-w3#readme"
+  "homepage": "https://github.com/AtifCentennialcollege/a1-expressportfoliosite#readme"
 }
