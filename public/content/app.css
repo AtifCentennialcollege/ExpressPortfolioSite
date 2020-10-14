@@ -1,1 +1,147 @@
 /* custom css goes here */
+
+/* css for main nav */
+#logo {
+    padding-left: 20px;
+}
+
+/* css for header */
+
+
+/* css for footer */
+
+
+/* css for bottom nav */
+#bnav {
+    text-align: center;
+}
+#a1, #a2, #a3, #a4, #a5 {
+    color: black;
+}
+#a1:hover, #a2:hover, #a3:hover, #a4:hover, #a5:hover {
+    background-color: gray;
+}
+#bnb {
+    font-size: small;
+}
+
+/* css for home */
+#wm {
+    padding-bottom: 50px;
+}
+
+hr.solid {
+    border-top: 3px solid #bbb;
+  }
+
+#hmst {
+    padding-top: 50px;
+}
+
+#hms {
+    padding-top: 75px;
+    padding-bottom: 75px;
+    font-style: italic;
+    font-size: x-large;
+}
+
+/* css for About Me */
+#amp {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#amit {
+    padding-top: 50px;
+    padding-bottom: 25px;
+}
+#ami {
+    font-size: large;
+}
+#amr {
+    color: darkmagenta;
+}
+
+#amrc {
+    padding-bottom: 75px;
+}
+
+/* css for Projects */
+#pamt {
+    padding-top: 25px;
+    text-align: center;
+    padding-bottom: 50px;
+}
+#pam {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#pamp {
+    padding-top: 30px;
+    font-size: large;
+    padding-bottom: 60px;
+}
+#pbst {
+    text-align: center;
+    padding-bottom: 50px;
+}
+#pbs {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#pbsp {
+    padding-top: 30px;
+    font-size: large;
+    padding-bottom: 60px;
+}
+/* css for Services */
+#sp {
+    padding-top: 25px;
+    font-size: x-large;
+}
+#img1 {
+    margin: auto;
+}
+#img2 {
+    margin: auto;
+}
+#img3 {
+    margin: auto;
+}
+#img4 { 
+    margin-left: 15%;
+
+}
+
+/* css for Contact Me */
+form {
+    width: 800px;
+}
+
+#validationMessage{
+    height: 150px;
+}
+#cmf {
+    display: inline-block;
+    vertical-align: top;
+    padding-bottom: 75px
+    
+}
+#cmp {
+    display: inline-block;
+    vertical-align: top;
+    padding-left: 20px;
+    
+    }
+
+#cmb {
+    background: grey;
+    border-color: grey;
+    color: black;
+}
+
+#cmb:hover {
+    background-color: rgb(177, 233, 250);
+}
